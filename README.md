@@ -1,5 +1,5 @@
 <h1 align="center">HELLOOOO It's Andrea!</h1>
-<h3 align="center">I'm a from Manila, Philippines. I am currently reigniting my creative spark through</h3>
+<h3 align="center">I'm an aspiring data scientist/software engineer from Marikina, Philippines. I am currently reigniting my creative spark through app/web creation as well as relearning the books!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
